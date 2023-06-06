@@ -1,1 +1,1 @@
-# hexlet-java
+# Проект java
